@@ -14,4 +14,4 @@ This plugin will allow you to receive a notification on your proxy machine when 
 This plugin uses [node-notifier](https://github.com/mikaelbr/node-notifier), therefore you need the unpacked folder for it to work. For more information: https://github.com/mikaelbr/node-notifier#within-electron-packaging
 
 ### Why do I have an error when I start SWEX?
-It's normal that you are receiving a "Invalid plugin raid-notifier.asar.unpacked. Missing one or more required module exports." when you start SWEX as it is trying to load the unpacked directory as a plugin even though it is not a SWEX plugin.
+It's normal that you are receiving a _Invalid plugin raid-notifier.asar.unpacked. Missing one or more required module exports._ when you start SWEX as it is trying to load the unpacked directory as a plugin even though it is not a SWEX plugin.
