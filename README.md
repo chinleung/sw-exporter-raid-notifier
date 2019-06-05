@@ -1,4 +1,7 @@
+
 # SWEX Raid Notifier
+
+**Note**: This package is no longer maintained. Use [sw-exporter-run-notifier](https://github.com/chinleung/sw-exporter-run-notifier) instead.
 
 This plugin will allow you to receive a notification on your proxy machine when a raid run has finished so you are not the dude who stays _In Battle_ while everyone else is waiting.
 
